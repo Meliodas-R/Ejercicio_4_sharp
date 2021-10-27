@@ -7,3 +7,6 @@ Fahrenheit (debe permitir decimales) y le muestre el equivalente en grados Celsi
 La fórmula de conversión que se usa para este cálculo es: Celsius = (5/9) * (Fahrenheit-
 32).
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65538839/139054914-d91246c0-76bc-4f87-911e-bfe60322dee0.png">
+</p>
